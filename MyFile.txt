@@ -2,7 +2,7 @@ ECHO is on.
 
 This
 is a 
-addition that 
+modification that 
 was made to 
 this particular 
 file.
